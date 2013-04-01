@@ -1,2 +1,3 @@
-this is process of learining ..
+puts "Hello, #{ARGV.first}!"
+
 
